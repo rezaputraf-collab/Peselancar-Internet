@@ -1,0 +1,45 @@
+html {
+  height: 100%;
+  background: 50% 50% no-repeat
+    url('data:image/svg+xml,<svg viewBox="-20 -5 60 40" width="140" xmlns="http://www.w3.org/2000/svg" opacity="0.2"><path d="M1 8l11-7 11 7v8l-11 7-11-7zm0 0l11 8 11-8m0 8L12 8 1 16M12 1v7m0 8v7" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="2"/><text x="-12" y="32" font-size="5" font-family="monospace" fill="currentColor">Built on CodePen</text></svg>');body {
+  background: #111;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  text-transform: uppercase;
+  text-shadow: 0 0 15px white;
+}
+
+p {
+  color: #aaa;
+  font-size: 18px;
+}
+
+button {
+  background: white;
+  color: black;
+  border: none;
+  padding: 12px 25px;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #aaa;
+  transform: scale(1.05);
+}
+
+.card {
+  background: #1c1c1c;
+  padding: 25px;
+  margin: 30px auto;
+  width: 300px;
+  border: 1px solid #444;
+  border-radius: 12px;
+}
+}
