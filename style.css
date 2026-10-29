@@ -1,6 +1,7 @@
 body {
   background-color: #111hjk;
-  
+  border-radius: 15px;
+  border-color: black;
   font-family: Arial, sans-serif;
 }
 
